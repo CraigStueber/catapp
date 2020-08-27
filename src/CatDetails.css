@@ -1,0 +1,10 @@
+.CatDetails-card img{
+    width: 75%;
+    margin-right: auto;
+    margin-left: auto;
+   
+}
+.CatDetails-card {
+    box-shadow: 0 19px 38px rgba(0,0,0,0.3), rgba(0,0,0,0.1);
+}
+
